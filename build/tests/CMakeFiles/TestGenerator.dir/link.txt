@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libTestGenerator.a  CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libTestGenerator.a

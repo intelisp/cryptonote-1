@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jesushq/Documents/ProyectosSwift/bucks/monedafinal/cryptonote-1/src/Platform/OSX/System/Context.c
+string.h
+-
+Context.h
+/Users/jesushq/Documents/ProyectosSwift/bucks/monedafinal/cryptonote-1/src/Platform/OSX/System/Context.h
+
+/Users/jesushq/Documents/ProyectosSwift/bucks/monedafinal/cryptonote-1/src/Platform/OSX/System/Context.h
+stdlib.h
+-
+
